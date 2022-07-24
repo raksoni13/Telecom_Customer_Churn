@@ -12,4 +12,9 @@ Insights-
 	4. Any info on customer behavior? 64% of the people who churn do it before an average of 18 months. Internet downloads is prominent with younger age group (below 30). Most of the people are not spending on MT's offers. 
 	5. What can be done? Need market research to understand competitor's device and improve MT's offerings. Train customer service rep and deep dive to understand root cause (long working hours? Poor comp structure? Poor management causing frustration? It can be anything) . Analyze MT's offers and understand value proposition against competitor's offers. Most of the people (approx. 5k) use both internet and phone services, hence to increase the revenue  MT can look into charging 3rd party streaming of Movie, Music, and TV.
 	6. Extra- Implementation of ML algorithm for predicting if customer will churn or stay: 81% accuracy.  
+	
+Files included: 1) Power BI Dashboard (Maven Telecom Customer Churn Insights.pbix) 
+		2) Exploratory Data Analysis (Telecom_solution.ipynb)
+		3) Machine Learning (TelecomCustomerChurn_ML.ipynb)
+
 
