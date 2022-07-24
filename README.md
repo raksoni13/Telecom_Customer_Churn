@@ -16,6 +16,8 @@ Files included: 1) Power BI Dashboard (Maven Telecom Customer Churn Insights.pbi
 		2) Exploratory Data Analysis (Telecom_solution.ipynb)
 		3) Machine Learning (TelecomCustomerChurn_ML.ipynb)
 		
-<img width="681" alt="Dash" src="https://user-images.githubusercontent.com/54342472/180663730-3f19dc39-80cc-42d0-9cd4-fadcebe94870.PNG">
+<img width="695" alt="CustChurn_1" src="https://user-images.githubusercontent.com/54342472/180667543-393ee4bb-580b-4064-9091-9b1d5e9e8dbf.PNG">
+
+<img width="694" alt="CustChurn_2" src="https://user-images.githubusercontent.com/54342472/180667550-f1f0ce0c-3a58-437f-bbc5-351951618623.PNG">
 
 
